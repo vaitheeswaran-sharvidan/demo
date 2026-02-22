@@ -1,9 +1,13 @@
 import './App.css'
-import Navbar from './Navbar'
+import Navbar from './Navbar';
+import Course from './Course';
 
 function App() {
   return (
+    <>
     <Navbar/>
+    <Course/>
+    </>
   )
 }
 
