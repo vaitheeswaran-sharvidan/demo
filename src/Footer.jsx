@@ -1,6 +1,6 @@
 function footer () {
     return (
-        <div> Made in love with Sri Lanka</div>
+        <footer> Made in love with Sri Lanka</footer>
     )
 }
 export default footer;
